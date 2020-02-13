@@ -1,0 +1,10 @@
+size(500,500);
+rectMode(CORNERS);
+fill(#FF0004);
+rect(0,0,500,130);
+rectMode(CORNERS);
+fill(#F6FF00);
+rect(0,130,500,370);
+rectMode(CORNERS);
+fill(#FF0004);
+rect(0,370,500,500);
